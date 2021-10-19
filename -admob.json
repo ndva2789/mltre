@@ -1,9 +1,9 @@
 [ {
   "id" : "ca-app-pub-3940256099942544/1033173712",
-  "init" : 10,
-  "note" : "default",
+  "init" : 3000,
+  "note" : "defull",
   "pack" : "",
-  "pe1" : 3600,
-  "pe2" : 5400,
-  "status" : true
+  "pe1" : 4500,
+  "pe2" : 7200,
+  "status" : false
 } ]
